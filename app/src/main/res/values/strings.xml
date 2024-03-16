@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DataBaseSQL</string>
+    <string name="email_textView">Email</string>
+    <string name="name_textView">Nom</string>
+    <string name="phone_textView">Telephone</string>
+    <string name="name_editText">Name</string>
+    <string name="add_button_text">AJOUTER A LA BASE</string>
+    <string name="view_button_text">VOIR LA BASE</string>
+    <string name="retour_btn">Retour</string>
+    <string name="content_textView">Voici le contenu de la base</string>
+    <string name="header_text">Les champs a modifier</string>
+    <string name="update_name_editText">Name</string>
+    <string name="update_button">UPDATE</string>
+</resources>
